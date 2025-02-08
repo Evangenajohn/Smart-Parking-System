@@ -72,7 +72,7 @@ Ensure you have the following installed:
 ---
 
 ## 📷 Screenshots  
-![Alt Text]()
+![THE WEBSITE LOOKS LIKE!!!](https://github.com/Evangenajohn/Smart-Parking-System/tree/main/screenshots)
 
 
 ---
